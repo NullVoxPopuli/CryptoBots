@@ -1,0 +1,3 @@
+[submodule "modules/CryptoExchangeClient"]
+	path = modules/CryptoExchangeClient
+	url = https://github.com/NullVoxPopuli/CryptoExchangeClient.git
