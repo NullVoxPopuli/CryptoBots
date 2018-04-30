@@ -4,6 +4,8 @@ Trading bots, for anyone to use for educational or personal gain purposes.
 
 ## Development
 
+Projects can be in either F# or C# as all libraries and dependencies are cross-compatible.
+
 ### Submodules
 
 This repo uses git submodules to manage cross-repo dependencies.
